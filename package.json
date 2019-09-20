@@ -2,9 +2,10 @@
   "name": "spike-graphql-optimisation",
   "version": "1.0.0",
   "description": "Understand how we can improve our GraphQL schema in order to write less code and reduce bugs",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/wonderflow-bv/spike-graphql-optimisation/issues"
   },
-  "homepage": "https://github.com/wonderflow-bv/spike-graphql-optimisation#readme"
+  "homepage": "https://github.com/wonderflow-bv/spike-graphql-optimisation#readme",
+  "dependencies": {
+    "apollo-server": "^2.9.3"
+  }
 }
