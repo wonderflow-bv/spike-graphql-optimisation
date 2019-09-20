@@ -1,0 +1,25 @@
+{
+  "name": "spike-graphql-optimisation",
+  "version": "1.0.0",
+  "description": "Understand how we can improve our GraphQL schema in order to write less code and reduce bugs",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonderflow-bv/spike-graphql-optimisation.git"
+  },
+  "keywords": [
+    "javascript",
+    "graphql",
+    "apollo",
+    "express"
+  ],
+  "author": "wonderflow-bv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wonderflow-bv/spike-graphql-optimisation/issues"
+  },
+  "homepage": "https://github.com/wonderflow-bv/spike-graphql-optimisation#readme"
+}
