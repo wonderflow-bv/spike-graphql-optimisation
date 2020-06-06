@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/wonderflow-bv/spike-graphql-optimisation#readme",
   "dependencies": {
-    "apollo-server": "^2.9.3"
+    "apollo-server": "^2.14.2"
   }
 }
